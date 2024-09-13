@@ -1,0 +1,62 @@
+
+ .row {
+    margin: 0;
+}
+
+.col-md-3 {
+    padding: 0;
+}
+ .column {
+    width: 48%; 
+ }
+ 
+ h2 {
+    margin-bottom: 10px;
+ }
+ 
+ h4 {
+    margin-bottom: 10px;
+ }
+ 
+ ul {
+    list-style-type: disc;
+    padding-left: 20px;
+ }
+ 
+ .mb-5 {
+    margin-bottom: 10px;
+ }
+ 
+ .mb-3 {
+    margin-bottom: 10px;
+ }
+ .card-img-top {
+    width: 90%;
+    height: 300px; 
+    object-fit: cover; 
+  }
+  .section {
+    margin: 0px;
+    padding: 0px;
+}
+.body {
+    margin: 0;
+   font-family: Arial, sans-serif;
+}
+
+.background {
+   background-image: url('peaceful.webp');
+   background-size: cover;
+   background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   min-height: 70vh; 
+}
+
+.content {
+   background-color: rgba(240, 240, 240, 1.0);
+   padding: 20px;
+   margin: 0px auto;
+   width: 80%; 
+   border-radius: 10px; 
+}
